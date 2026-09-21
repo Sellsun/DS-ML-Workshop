@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 streamlit==1.63.0
 scikit-learn
 pandas
@@ -9,7 +9,6 @@ tensorflow==2.19.1
 ultralytics>=8.1
 opencv-python-headless>=4.9
 lapx>=0.5.5
-=======
 streamlit==1.63.0
 scikit-learn
 pandas
@@ -20,5 +19,5 @@ tensorflow==2.19.1
 ultralytics>=8.1
 opencv-python-headless>=4.9
 lapx>=0.5.5
->>>>>>> 991f85ac9f55427493a09c91862cf00aefc80707
+991f85ac9f55427493a09c91862cf00aefc80707
  
